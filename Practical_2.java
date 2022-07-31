@@ -1,4 +1,4 @@
-//21CE124-Aary Shah
+//21CE124-Aary Shah 
 import java.util.Scanner;
 public class Practical_2{
     public static void main(String[] args) {
