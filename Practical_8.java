@@ -2,7 +2,7 @@
 //21CE124-Aary Shah
 import java.util.*;
 import java.util.Scanner;
-public class code8 {
+public class Practical_8 {
     public static void main(String[] args) {
         int count = 0;
         Scanner sc = new Scanner(System.in);
