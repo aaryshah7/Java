@@ -1,3 +1,7 @@
+//                1
+//              1 2 1
+//            1 2 4 2 1
+//          1 2 4 8 4 2 1 up to 8 rows
 //21CE124-Aary Shah
 public class Practical_7 {
     public static void printSpaces(int n) {
