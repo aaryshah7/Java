@@ -89,6 +89,5 @@ public class Account {
         acc.putdata();
         System.out.println("21CE124-Aary Shah");
     }
-
 }
 
