@@ -1,3 +1,4 @@
+/* The problem is to check whether a given Sudoku solution is correct.*/
 //21CE124-Aary Shah
 public class Practical_9 {
 
